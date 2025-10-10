@@ -8,14 +8,13 @@ The system can classify leaf images into three categories — Early Blight, Late
 The model uses image data and machine learning techniques to predict the condition of potato leaves efficiently and accurately.
 
 🎯 Objectives
-
 1. Detect Early Blight and Late Blight in potato leaves
 
 2.Classify Healthy leaves separately
 
 3.Assist in early diagnosis for better crop management
 
-4. Provide an accurate and automated solution using image classification
+4.Provide an accurate and automated solution using image classification
 
 
 
